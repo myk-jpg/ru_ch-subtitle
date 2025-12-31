@@ -4,6 +4,7 @@ ANSYS CFX 教学视频字幕文件
 请支持原作者：Олег Батурин教授  
 原视频作者频道：https://www.youtube.com/@ОлегБатурин-п8к  
 转载与开源以获得原作者许可  
+如需查看视频可直接访问：https://space.bilibili.com/3461574182308310?spm_id_from=333.337.0.0  
 
 # 俄语、中文 ASS 字幕（非官方）
 
@@ -34,6 +35,9 @@ ANSYS CFX 教学视频字幕文件
 3. 将字幕与视频放在同一文件夹
 4. 文件名一致即可自动加载，也可手动拖入视频加载  
 
+如需查看视频可以直接访问以下链接  
+https://www.bilibili.com/video/BV1iwi3B7Ebm/?vd_source=9530ed6cbad7baab1bc7f2653a52af63  
+https://www.bilibili.com/video/BV1iwi3B7E3F/?vd_source=9530ed6cbad7baab1bc7f2653a52af63  
 本仓库提供视频的下载链接，转载开源以获得原作者许可  
 如需下载视频资源可以在仓库的 LINK.txt 文件中复制下载地址并下载  
 
